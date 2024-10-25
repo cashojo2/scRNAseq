@@ -1,4 +1,4 @@
-# scRNAseq 
+# scRNAseq Trajectory Analysis
 
 This repository demonstrates the use of Scanpy and scVelo to perform trajectory analysis on single-cell gene expression data from 10x Genomics, specifically focusing on neutrophils. The dataset comprises 8,000 cells, over 36,000 genes, and more than 187 million UMIs/ total reads.
 
